@@ -9,7 +9,7 @@ The notebook demonstrates:
 
 ## Repository Contents
 - `tt_primal_dual_rl_FrozenLake.ipynb`: Full experiment with environment setup, value iteration, PGDA agent, and result visualization.
-- `FrozenLake4x4Shaded.png`: A sample output plot comparing learning curves and final performance metrics.
+- `FrozenLake4x4PGDAOutput.png`: A sample output plot comparing learning curves and final performance metrics.
 
 ## How to Run
 ```bash
