@@ -7,9 +7,8 @@ The notebook demonstrates:
 - Implementation of a PGDA agent with structured state-action buffers, adaptive exploration, and learning rate constraints.
 - Conversion of the originally episodic environment to an infinite-horizon Markov Decision Process (MDP) by redirecting terminal state transitions.
 
-## Repository Contents
+## Repository Content
 - `tt_primal_dual_rl_FrozenLake.ipynb`: Full experiment with environment setup, value iteration, PGDA agent, and result visualization.
-- `FrozenLake4x4PGDAOutput.png`: A sample output plot comparing learning curves and final performance metrics.
 
 ## How to Run
 ```bash
